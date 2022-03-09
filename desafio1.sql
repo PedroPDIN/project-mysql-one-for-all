@@ -75,7 +75,7 @@ VALUES
 ('Patrick',	33, 2, '2017-01-06'),
 ('Vivian', 26, 3, '2018-01-05'),
 ('Carol',19, 3, '2018-02-14'),
-('Argelina', 42, 2, '2018-04-29'),
+('Angelina', 42, 2, '2018-04-29'),
 ('Paul', 46, 2, '2017-01-17');
 
 INSERT INTO SpotifyClone.artist
