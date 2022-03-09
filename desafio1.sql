@@ -146,7 +146,7 @@ VALUES
 ('Home Forever', 4, 231),
 ('Diamond Power', 4, 241),
 ("Let's Be Silly", 4, 132),
-('Thang Of Thunder', 5, 249),
+('Thang Of Thunder', 5, 240),
 ('Words Of Her Life', 5, 185),
 ('Without My Streets', 5, 176),
 ('Need Of The Evening', 6, 190),
