@@ -123,7 +123,7 @@ VALUES
 ('Incandescent', 1998, 3),
 ('Temporary Culture', 2001, 4),
 ('Library of liberty', 2003, 4),
-('Chained Dowm', 2007, 5),
+('Chained Down', 2007, 5),
 ('Cabinet of fools', 2012, 5),
 ('No guarantees', 2015, 5),
 ('Apparatus', 2015, 6);
