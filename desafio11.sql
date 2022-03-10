@@ -7,7 +7,7 @@ WHEN s.song LIKE '%Inner Fire' THEN REPLACE(s.song, 'Inner Fire', 'Project')
 WHEN s.song LIKE '%Silly' THEN REPLACE(s.song, 'Silly', 'Nice')
 WHEN s.song LIKE '%Circus' THEN REPLACE(s.song, 'Circus', 'Pull Request')
 ELSE s.song
-END AS nova_nome
+END AS novo_nome
 FROM SpotifyClone.song AS s
 WHERE 
 s.song LIKE '%Streets' OR
